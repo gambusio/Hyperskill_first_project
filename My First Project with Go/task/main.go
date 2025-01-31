@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Item prices
+/* Item prices
 const (
 	bubblegumPrice     = 2.0
 	toffeePrice        = 0.2
@@ -10,7 +10,7 @@ const (
 	milkchocolatePrice = 4.0
 	doughnutPrice      = 2.5
 	pancakePrice       = 3.2
-)
+)*/
 
 const (
 	bubblegumTotalSales     = 202.0
