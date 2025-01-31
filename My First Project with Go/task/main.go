@@ -1,3 +1,6 @@
+/*
+Primer proyecto de Hyperskill realizado en go
+*/
 package main
 
 import "fmt"
